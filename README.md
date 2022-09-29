@@ -32,6 +32,4 @@
 </br>
 </br>
 ![Snake animation](https://github.com/juliocoi/juliocoi/blob/output/github-contribution-grid-snake.svg)
-
-
--->
+![Snake animation](https://github.com/juliocoi/blob/output/github-contribution-grid-snake.svg)
