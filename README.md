@@ -19,8 +19,11 @@
 
 ## GitHub Analytics
 
-<p aligne="center">
-<a href="https://github.com/juliocoi"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocoi&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliocoi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+<p align="center">
+<a href="https://github.com/juliocoi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliocoi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliocoi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 
