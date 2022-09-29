@@ -22,13 +22,20 @@
 <p aligne="center">
 <a href="https://github.com/juliocoi"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocoi&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliocoi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </p>
-  
+
+
 ## Contact me(even for just a coffee):
 <div aligne="center>
 <a href="https://www.instagram.com/juliocoi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 <a href="https://www.linkedin.com/in/juliocoi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 <a href = "mailto:amorim.jc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </div>
+</br>
 
+## :musical_note: I love music! :musical_note:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juliocoi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+---
 
 ![snake gif](https://github.com/juliocoi/juliocoi/blob/output/github-contribution-grid-snake.svg)
