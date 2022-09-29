@@ -29,6 +29,6 @@
 <a href="https://www.linkedin.com/in/juliocoi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 <a href = "mailto:amorim.jc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </div>
-</br>
-</br>
+
+
 ![snake gif](https://github.com/juliocoi/juliocoi/blob/output/github-contribution-grid-snake.svg)
