@@ -40,5 +40,3 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juliocoi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ---
-
-![snake gif](https://github.com/juliocoi/juliocoi/blob/output/github-contribution-grid-snake.svg)
