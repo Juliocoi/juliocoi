@@ -36,6 +36,6 @@
 
 ## :musical_note: I love music! :musical_note:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=juliocoi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juliocoi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ---
